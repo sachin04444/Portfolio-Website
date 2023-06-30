@@ -8,8 +8,8 @@ const page = () => {
           <h1>About Us</h1>
         </div>
         <p>
-          hello , i am sachin trivedi fullstack devloper. i belive in hardworking and idea . i went work were my skill and i improve my self. 
-          where i work i do my 100% .
+         Objective Seeking a Web Developer programmer position in a reputable companythat permits me to utilize my programming skills and knowledge.
+          Responsible forthe interactive experience of the site. Assisted engineering team to ensure efficientand correct implementation.
         </p>
       </div>
     </>
