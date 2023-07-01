@@ -40,9 +40,14 @@ const page = () => {
             return (
               <>
                 <div className="procard flex">
-                  <div className="imgtag">
-                    <img src={i.imge} alt="" srcset="" />
-                  </div>
+                  <div>
+                      <div>
+                        {i.Title}
+                      </div>
+                      <div className="imgtag">
+                        <img src={i.imge} alt="" srcset="" />
+                      </div>
+                    </div>
                   <div>
                     <a href={i.Github} target="_blank" rel="noopener noreferrer"><AiFillGithub /></a>
                     <a href={i.Live} target="_blank" rel="noopener noreferrer"><TbWorldWww /></a>
